@@ -1,2 +1,2 @@
 # RakitaLog
-nmigen-powered reimplementations of various historical circuits, kinda
+Verilog reimplementations of various historical circuits, kinda
